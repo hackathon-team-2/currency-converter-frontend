@@ -8,7 +8,7 @@
 
 [Подробная информация о Хакатоне](https://docs.google.com/document/d/1nQz2IvNutPv28m0HGASbrWm13tV1RCPeAaySq19uk1w/edit?tab=t.0)
 
-### Опубликованное приложение
+### Ссылки
 
 [Ссылка на сайт](https://currency-converter-team2.vercel.app/)
 
